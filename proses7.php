@@ -1,17 +1,17 @@
 <?php
 if (isset($_POST['Pilih'])) {
-echo "Band Favorit Anda adalah :<br>";
+echo "<i>Band Favorit Anda adalah :</i><br>";
 if (isset($_POST['band01'])) {
-echo "~ " . $_POST['band01'] . "<br>";
+echo "<b> ~ " . $_POST['band01'] . "</b><br>";
 }
 if (isset($_POST['band02'])) {
-echo "~ " . $_POST['band02'] . "<br>";
+echo "<b> ~ " . $_POST['band02'] . "</b><br>";
 }
 if (isset($_POST['band03'])) {
-echo "~ " . $_POST['band03'] . "<br>";
+echo "<b> ~ " . $_POST['band03'] . "</b><br>";
 }
 if (isset($_POST['band04'])) {
-echo "~ " . $_POST['band04'] . "<br>";
+echo "<b> ~ " . $_POST['band04'] . "</b><br>";
 }
 }
 ?>
