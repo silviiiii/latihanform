@@ -51,6 +51,7 @@ agama :
 <option value="Islam">islam</option>
 <option value="kristen">kristen</option>
 <option value="hindu">hindu</option></select><br>
+
 <input type="submit" name="simpan" value="simpan">
 <input type="reset" name="hapus" value="hapus">
 </fieldset>
