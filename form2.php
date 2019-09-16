@@ -28,7 +28,7 @@ $agama =$_POST['agama'];
     echo "jurusan : $jr.<br>";
     echo "Nama ayah : $ayah.<br>";
     echo "pekerjaan ayah : $krj.<br>";
-    echo "Nama ibu : $ibu.<br>";
+    echo "Nama ibu : $ib<br>";
     echo "pekerjaan ibu : $krji.<br>";
     echo "hobby : $hobi.<br>";
     if (isset($_POST['hobi'])) {
